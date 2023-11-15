@@ -12,6 +12,7 @@ Source code is also available at: https://github.com/snowflakedb/snowflake-conne
 - v3.6.0(TBD)
 
   - Added support for Vector types
+  - Added new fields to `snowflake.connector.cursor.ResultMetadata`
 
 - v3.5.0(November 13,2023)
 
